@@ -1,0 +1,93 @@
+16-June-2023  Git-GitHub Day 1
+===================================================
+What is Source Code Management?
+Why Source Code Management(SCM)?
+What are different source code management system?
+What is the architecture of SCM ?
+
+What are the benefits of SCM over traditional Code Managements?
+
+Create GitHub Account
+Download Git software
+Install Git Software 
+Configure Git Software 
+
+19-June-2023  Git-GitHub Day 2
+===================================================
+commands to execute in the Git Bash 
+---------------------------------------------------
+clear the screen
+	Command: clear
+	CMD Command: cls  
+create a folder or directory
+	Command: mkdir foldername
+	CMD Command: mkdir foldername 
+create nested folder or recurive folder
+	Command: mkdir -p foldername/foldername 
+	CMD Command: 
+list all the folder and files in current folder 
+	Command: ls 
+	CMD Command: 
+how to change from current folder to another folder 
+	Command: cd 
+	
+how remove a folder or directory
+	Command: rmdir childfoldername
+	
+how remove a file 
+	Command: rm filename.extension
+	
+how remove more folders 
+	Command: rm foldername1 foldername2 foldername3
+	
+how to remove folders recursive
+	Command: rm -rf foldername1 foldername2
+	
+how to remove more files 
+	Command: rm filename1 filename2 filename3
+             rm *.*	
+	
+find current working folder or directory 
+	Command: pwd 
+		
+copy one file to another folder
+	Command: cp filename.extension foldername/ 
+	
+copy more than one file to another folder 
+	Command: cp *.* foldername/ 
+	
+copy one folder to another folder 
+	Command: cp -r folder1 folder2/
+	
+copy more than one folder to another folder 
+	Command: cp -r folder1 folder2 folder3 folder4/
+
+open a new file 
+	Command: vi filename.extension 
+	
+write code inside file 
+	Command: i 
+				and type all the code inside the file 
+				
+save and exit file
+	Command: esc 
+		     wq
+			 
+exit file without saving
+	Command: esc 
+		     q
+			 
+show the file content in console
+	Command: cat filename.extension 
+		
+rename a file 
+	Command: 
+		mv oldfilename.extension newfilename.extension 
+			
+rename a folder 
+
+What is checkout?
+What is checkin?
+What is clone?
+Create MFA for github login
+
